@@ -1,2 +1,0 @@
-# Fantom-bot
-Connexion fantom
